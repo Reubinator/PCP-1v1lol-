@@ -1,4 +1,7 @@
 # 1v1.lol_Utility_Mod
+A 1v1.lol tampermonkey script
+-----------------------------
+
 This script contains the following features:
 
 Blink, Blink delays the player movement packet to appear as if you are standing still on the opponents screen but you actually are moving in game.
