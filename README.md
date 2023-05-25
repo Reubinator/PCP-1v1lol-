@@ -23,7 +23,7 @@ it like an Assault Rife.
 </p>
 I couldn't be bothered fixing the compatibility issue between this script and the one containing esp, aimbot and wireframe so i decided to run
 a seperate instance of the script. You must download this second script and run it along side this one in order for the aimbot, wireframe and esp
-to function correctly. A link for it is provided below, this version has absoultley ZERO ads ;) 
+to function correctly. It is provided in this Repository labled as PCP Requirement.user.js.
 
 <br />Toggles for the script:
 
