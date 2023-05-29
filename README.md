@@ -8,6 +8,10 @@ Blink, Blink delays the player movement packet to appear as if you are standing 
 You get kicked if you have it on for longer than 15 seconds at a time. Their is a useful clock on your screen (top left) that keeps you up to date
 with how long it has been toggled on for to avoid getting kicked.
 
+Known Glitches:
+Blink Bind dissapears after toggling on and off
+Script is terribly made and rushed, consider contributing.
+
 ESP, Changes player models to red and allows you to see them through walls. Works poorly in battle royale as it turns many other things red making
 your view of players poor. Works best in 1v1 mode.
 
