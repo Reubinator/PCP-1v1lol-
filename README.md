@@ -27,11 +27,11 @@ to function correctly. It is provided in this Repository labled as PCP Requireme
 
 <br />Toggles for the script:
 
-"T" Toggles Blink on and off <br>
-"N" To toggle ESP on and off  
-"M" To toggle Wireframe on and off  
-"G" To toggle Aimbot on and off  
-(Rapidfire is always on)
+"C" Toggles Blink on and off <br>
+"V" To toggle ESP on and off  
+"N" To toggle Wireframe on and off  
+"T" To toggle Aimbot on and off  
+(Rapidfire is always on) Working on a toggle when im free.
 
 Things to come:  <br>
 Add a display showing what hacks are active.  
