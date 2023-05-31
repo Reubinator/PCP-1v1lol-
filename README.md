@@ -39,6 +39,10 @@ Here are the toggle keys to control the script:
 - "T" toggles Aimbot on and off
 (Note: Rapid Fire is always on and does not have a toggle)
 
+## Setup
+This script runs in tampermonkey you can download it at https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+You can either import it in or just copy the code from the .js files and paste it into two seperate tampermonkey scripts, use common sense or it wont work.
+
 **Disclaimer: This script is for educational purposes only. Use it responsibly and at your own risk. The script may not work as intended in all gaming environments.**
 
 <p align="left">
