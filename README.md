@@ -1,49 +1,48 @@
-# 1v1.lol_Utility_Mod
-A 1v1.lol tampermonkey script
+# PCP 1v1.lol
 -----------------------------
 
-This script contains the following features:
+# A Mashup Of 1v1.lol Scripts With A Clean GUI
 
-Blink, Blink delays the player movement packet to appear as if you are standing still on the opponents screen but you actually are moving in game.
-You get kicked if you have it on for longer than 15 seconds at a time. Their is a useful clock on your screen (top left) that keeps you up to date
-with how long it has been toggled on for to avoid getting kicked.
+## Features
 
-Known Glitches:
-Blink Bind dissapears after toggling on and off
-Script is terribly made and rushed, consider contributing.
+### Blink
+Blink allows you to appear stationary on your opponent's screen while actually moving in the game. It adds an element of surprise and strategic advantage. Please note that if you keep Blink enabled for more than 15 seconds, you may get kicked from the game. However, there's a handy clock displayed on your screen (top left) to keep track of the toggled time and avoid any mishaps.
 
-ESP, Changes player models to red and allows you to see them through walls. Works poorly in battle royale as it turns many other things red making
-your view of players poor. Works best in 1v1 mode.
+### ESP (Extra Sensory Perception)
+ESP changes player models to red and enables you to see them through walls. While it works exceptionally well in 1v1 mode, it may affect visibility in battle royale games as it turns various other objects red. For the best results, i recommend using ESP primarily in 1v1 matches.
 
-Wireframe, Basically shows everything as wires. Only real benefit of wireframe is to see players through walls in battle royale and to see where
-people are. Use wireframe as a subsitute for ESP if you are playing Battle Royale but stick with ESP for 1v1's.
+### Wireframe
+Wireframe mode displays everything as wires, allowing you to see players through walls in battle royale games and track their movements. If you're playing battle royale, wireframe can serve as a substitute for ESP. However, i suggest sticking with ESP for 1v1 matches.
 
-Rapid Fire, rapid fire removes the shooting delay for your Assault Rifle and your Shotgun allowing you to shoot a whole Assault Rifle clip in a
-couple of seconds. This hack also modifys the shotgun delay and the completley removes the reload time for it pretty much allowing you to shoot
-it like an Assault Rife.
+### Rapid Fire
+Rapid Fire removes the shooting delay for your Assault Rifle and Shotgun, enabling you to unleash a whole Assault Rifle clip in a matter of seconds. Additionally, it modifies the shotgun delay and completely removes the reload time, allowing you to fire it rapidly, almost like an Assault Rifle.
+
+## Toggle List
+Toggle List provides a display of all the currently active hacks on your screen, arranged in descending order from highest to lowest. This feature is particularly useful when using Hide Menu, as it allows for a clearer gaming experience. By quickly looking at the Toggle List, you can easily stay informed about which hacks are currently on without needing to access the full menu.
+
+## Hide Menu
+Hide Menu allows you to easily hide the GUI from your screen with a simple key press. Once activated, the menu disappears, providing a clean and unobstructed view of the game. To bring the menu back, simply press the key again.
+
+## Known Glitches
+Please be aware of the following glitches in the script:
+
+- Nothing here yet :)
+
+## Toggles
+Here are the toggle keys to control the script:
+
+- "C" toggles Blink on and off
+- "K" toggles the scripts GUI on and off
+- "L" toggles the Toggle List on and off (**NOT CURRENTLY ADDED**)
+- "V" toggles ESP on and off
+- "N" toggles Wireframe on and off
+- "T" toggles Aimbot on and off
+(Note: Rapid Fire is always on and does not have a toggle)
+
+**Disclaimer: This script is for educational purposes only. Use it responsibly and at your own risk. The script may not work as intended in all gaming environments.**
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=&amp;text=CRUCIAL%20INFORMATION&amp;fontSize=70&amp;animation=twinkling" alt="header">
-</p>
-I couldn't be bothered fixing the compatibility issue between this script and the one containing esp, aimbot and wireframe so i decided to run
-a seperate instance of the script. You must download this second script and run it along side this one in order for the aimbot, wireframe and esp
-to function correctly. It is provided in this Repository labled as PCP Requirement.user.js.
-
-<br />Toggles for the script:
-
-"C" Toggles Blink on and off <br>
-"V" To toggle ESP on and off  
-"N" To toggle Wireframe on and off  
-"T" To toggle Aimbot on and off  
-(Rapidfire is always on) Working on a toggle when im free.
-
-Things to come:  <br>
-Add a display showing what hacks are active.  
-Make Rapid fire toggleable.  
-Skid a whole bunch more.  
-
-
-POV Zertalious when he finds out nobody wants to know about his Shellshockers script:
-<p align="left">
-  <img src="https://media.tenor.com/_Lz5BPKaJZAAAAAM/crying-crying-meme.gif">
+  <img src="https://media.tenor.com/m6C7F1L78cYAAAAM/angry-korean.gif" width="200" height="186">
+  <img src="https://www.mkgifs.com/wp-content/uploads/2022/10/Griddy-gif.gif" width="200" height="186">
+  <img src="https://media4.giphy.com/media/V9HYXZCXR1O1xYtjWG/200w.gif?cid=6c09b9520167266uyrbj8o40a1fnscebnm8m2x5chctte1tl&ep=v1_gifs_search&rid=200w.gif&ct=g">
 </p>
