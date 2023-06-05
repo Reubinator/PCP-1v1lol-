@@ -28,7 +28,7 @@ Hide Menu allows you to easily hide the GUI from your screen with a simple key p
 ## Known Glitches
 Please be aware of the following glitches in the script:
 
-- Nothing here yet :)
+- Rapid fire patched, see top of readme
 
 ## Toggles
 Here are the toggle keys to control the script:
@@ -39,7 +39,7 @@ Here are the toggle keys to control the script:
 - "V" toggles ESP on and off
 - "N" toggles Wireframe on and off
 - "T" toggles Aimbot on and off
-(Note: Rapid Fire is always on and does not have a toggle)
+(Note: Rapid Fire is always on and does not have a toggle) Rapid fire patched, see top of readme
 
 ## Setup
 This script runs in tampermonkey you can download it at https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
