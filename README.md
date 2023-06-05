@@ -2,6 +2,8 @@
 -----------------------------
 
 # A Mashup Of 1v1.lol Scripts With A Clean GUI
+### STATUS
+**RAPID FIRE PATCHED. While i will develop a bypass, my current priority still lies in creating a better cheat (godmode ect.).**
 
 ## Features
 
